@@ -8,7 +8,7 @@ Estou cursando o meu primeiro ano em análise e desenvolvimento de sistemas, ten
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [rrcosta04@live.com](mailto:rrcosta04@live.com)
-* 🧠  I'm learning html, css, DB, Java, Python.
+* 🧠  I'm learning html, css, javaScript, DB, Java, Python.
 
 ### Skills
 
