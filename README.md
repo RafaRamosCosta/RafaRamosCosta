@@ -24,6 +24,7 @@ I'm currently specializing in web development with HTML, CSS, JavaScrip and Reac
                   
                 <p align="left">
                           
-                      <a href="https://www.github.com/RafaRamosCosta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+                      <a href="https://www.github.com/RafaRamosCosta" target="_blank" rel="noreferrer">GitHub</a>
                           
-                      <a href="https://www.linkedin.com/in/rafael-ramos-costa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+                      <a href="https://www.linkedin.com/in/rafael-ramos-costa/" target="_blank" rel="noreferrer">LinkedIn</a>
+                </p>
