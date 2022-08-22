@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafael Ramos Costa
 ==========================================================================================================================================
 
-Systems Developer and Analyst
------------------------------
+Studying systems analysis and development at FIAP São Paulo, Brazil
+-------------------------------------------------------------------
 
 I'm currently specializing in web development with HTML, CSS, JavaScrip and React/ Back-End development with Java, NodeJs, Python and Oracle to build Relational DataBase.
 
