@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaramoscosta&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="rafaramoscosta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaramoscosta&show_icons=true&theme=dracula&title_color=ffffff&text_color=fcfcfc&bg_color=000000&locale=en" alt="rafaramoscosta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaramoscosta&show_icons=true&theme=onedark&title_color=ffffff&text_color=fcfcfc&bg_color=000000&locale=en" alt="rafaramoscosta" /></p>
