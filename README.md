@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rafael Ramos Costa</h1>
+<h1 align="center">Hey 👋, I'm Rafael Ramos Costa</h1>
 <h3 align="center">A Brazilian FullStack Developer, studying System Analysis and Development at FIAP.</h3>
 
-- 🌱 I’m currently learning **Java, Python, SQL ORACLE, JavaScript, React, SASS at FIAP-Faculdade de Informática e Administração Paulista.**
+- 🌎 I’m based on **Brazil, São Paulo-SP**
+
+- 🌱 I’m currently learning **Java, Python, SQL ORACLE, JavaScript, React, SASS.**
 
 - 📫 How to reach me **rrcosta04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rafael r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rafael-ramos-costa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-ramos-costa/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
