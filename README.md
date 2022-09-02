@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Ramos Costa</h1>
 <h3 align="center">A Brazilian FullStack Developer, studying System Analysis and Development at FIAP.</h3>
 
-- 🌱 I’m currently learning **Java, Python, SQL ORACLE, JavaScript, React, SASS at FIAP-Faculdade de Informática e Administração Paulista..**
+- 🌱 I’m currently learning **Java, Python, SQL ORACLE, JavaScript, React, SASS at FIAP-Faculdade de Informática e Administração Paulista.**
 
 - 📫 How to reach me **rrcosta04@gmail.com**
 
