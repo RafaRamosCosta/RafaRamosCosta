@@ -3,7 +3,9 @@
 
 - 🌎 I’m based on **Brazil, São Paulo-SP**
 
-- 🌱 I’m currently learning **NodeJS, Typescript, Express, NestJS, Jest.**
+- 🌱 I’m currently learning **NodeJS, Typescript, Express/Fastify, NestJS, Jest.**
+
+- 💻 I'm currently working with **NodeJS APIs** using Typescript, Express/Fastify, NestJs and ORMs like Sequelize and Typeorm
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
