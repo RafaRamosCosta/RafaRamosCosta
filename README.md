@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Typescript, Express/Fastify, NestJS, Jest.**
 
-- 💻 I'm currently working with **NodeJS APIs** using Typescript, Express/Fastify, NestJs and ORMs like Sequelize and Typeorm
+- 💻 I'm currently working with **NodeJS APIs** using Typescript, Express/Fastify, NestJs, ORMs like Sequelize and Typeorm and also with Infra As Code with Terraform.
 
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
